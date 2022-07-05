@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Miltonian&display=swap');
+
+ body{background-color: snow; border: 2px solid red;
+ border-radius:  16px;
+ margin-left:auto; font-family: 'Miltonian', cursive
+ margin-right:auto; max-width: 1024; min-width: 256;
+ padding-top: 8px;
+ padding-bottom: 24px;
+ padding-left: 24px;
+ padding-right:14px;
+ }
+ html{
+   background: radial-gradient(  rgb(240, 75, 75) , rgb(142, 135, 235) 50%, rgb(13, 209, 6) 
+   50%, skyblue); background-size: 8px 8px;Ender 3 Pro
