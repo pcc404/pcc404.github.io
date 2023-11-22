@@ -1,8 +1,8 @@
  
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
  body{background-color: #B29C74; border: 2px solid Gray;
  border-radius:  16px;
- margin-left:auto; font-family: 'Dancing Script', cursive;
+ margin-left:auto; font-family: 'roboto', sans-serif;
  margin-right:auto; max-width: 1024; min-width: 256;
  padding-top: 8px;
  padding-bottom: 24px;
