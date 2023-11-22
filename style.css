@@ -1,6 +1,6 @@
  
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
- body{background-color: #B29C74; border: 2px solid Gray;
+ html, body{background-color: #B29C74; border: 2px solid Gray;
  border-radius:  16px;
  margin-left:auto; font-family: 'Roboto', sans-serif;
  margin-right:auto; max-width: 1024; min-width: 256;
@@ -9,5 +9,3 @@
  padding-left: 40px;
  padding-right:40px;
  }
- html{radial-gradient(circle , red , orange 50%, yellow 
-   50%, orange); background-size: 24px 24px;}
