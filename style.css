@@ -1,7 +1,6 @@
  
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
- html, body{background-color: #B29C74; border: 2px solid Gray;
- border-radius:  16px;
+ html, body{background-color: #B29C74;
  margin-left:auto; font-family: 'Roboto', sans-serif;
  margin-right:auto; max-width: 1024; min-width: 256;
  padding-top: 8px;
