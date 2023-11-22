@@ -28,7 +28,9 @@ nav ul li:last-child{
 nav ul li a {
  text-decoration: none;
  color: #111111;}
-
+nav ul li.selected{
+ color:#292929;
+}
 
 p.fact {
  border:4px #00AFEB;
