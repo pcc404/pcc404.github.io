@@ -12,6 +12,7 @@ nav ul {
       list-style-type:none;
       background-color:#db7923;
       border: 4px solid #111111;
+      border-radius: 10px;
       font-family:'roboto', sans-serif;
       font-weight:bold;
       padding:16px;
