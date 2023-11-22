@@ -9,5 +9,5 @@
  padding-left: 40px;
  padding-right:40px;
  }
- html{
-   background: background-color: #e6c28c;}
+ html{radial-gradient(circle , red , orange 50%, yellow 
+   50%, orange); background-size: 24px 24px;}
