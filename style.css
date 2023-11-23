@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
  html, body{background-color: #B29C74;
  margin-left:auto; font-family: 'Roboto', sans-serif;
- margin-right:auto; max-width: 1024; min-width: 256;
- padding-top: 8px;
- padding-bottom: 24px;
- padding-left: 24px;
- padding-right:24px;
+ margin-right:auto; max-width: 768pt; min-width: 192pt;
+ padding-top: 6pt;
+ padding-bottom: 18pt;
+ padding-left: 18pt;
+ padding-right:18pt;
  }
 nav ul {
       list-style-type:none;
