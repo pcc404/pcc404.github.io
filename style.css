@@ -39,7 +39,7 @@ p.fact {
  background-color:#C5EBFB;
 }
 
-.header .menu {
+nav .menu {
   clear: both;
   max-height: 0;
   transition: max-height .2s ease-out;
@@ -47,7 +47,7 @@ p.fact {
 
 /* menu icon */
 
-.header .menu-icon {
+nav .menu-icon {
   cursor: pointer;
   display: inline-block;
   float: right;
@@ -56,7 +56,7 @@ p.fact {
   user-select: none;
 }
 
-.header .menu-icon .navicon {
+nav .menu-icon .navicon {
   background: #333;
   display: block;
   height: 2px;
@@ -65,8 +65,8 @@ p.fact {
   width: 18px;
 }
 
-.header .menu-icon .navicon:before,
-.header .menu-icon .navicon:after {
+nav .menu-icon .navicon:before,
+nav .menu-icon .navicon:after {
   background: #333;
   content: '';
   display: block;
@@ -76,56 +76,56 @@ p.fact {
   width: 100%;
 }
 
-.header .menu-icon .navicon:before {
+nav .menu-icon .navicon:before {
   top: 5px;
 }
 
-.header .menu-icon .navicon:after {
+nav .menu-icon .navicon:after {
   top: -5px;
 }
 
 /* menu btn */
 
-.header .menu-btn {
+nav .menu-btn {
   display: none;
 }
 
-.header .menu-btn:checked ~ .menu {
+nav .menu-btn:checked ~ .menu {
   max-height: 240px;
 }
 
-.header .menu-btn:checked ~ .menu-icon .navicon {
+nav .menu-btn:checked ~ .menu-icon .navicon {
   background: transparent;
 }
 
-.header .menu-btn:checked ~ .menu-icon .navicon:before {
+nav .menu-btn:checked ~ .menu-icon .navicon:before {
   transform: rotate(-45deg);
 }
 
-.header .menu-btn:checked ~ .menu-icon .navicon:after {
+nav .menu-btn:checked ~ .menu-icon .navicon:after {
   transform: rotate(45deg);
 }
 
-.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
-.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+nav .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+nav .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
   top: 0;
 }
 
 /* 48em = 768px */
 
 @media (min-width: 48em) {
-  .header li {
+  nav li {
     float: left;
   }
-  .header li a {
+  nav li a {
     padding: 20px 30px;
   }
-  .header .menu {
+  nav .menu {
     clear: none;
     float: right;
     max-height: none;
   }
-  .header .menu-icon {
+  nav .menu-icon {
     display: none;
   }
 }
