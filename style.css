@@ -1,5 +1,10 @@
  
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@font-face {
+  font-family: nasa-font;
+  src: url(nasalization-rg.otf);
+}
+
  html, body{background-color: #B29C74;
  margin-left:auto; font-family: 'Roboto', sans-serif;
  margin-right:auto; max-width: 8000pt; min-width: 192pt;
@@ -9,6 +14,7 @@
  padding-right:18pt;
  }
 nav ul {
+      font-family: 'nasa-font';
       list-style-type:none;
       background-color:#db7923;
       border: 2px solid #111111;
