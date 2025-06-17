@@ -8,7 +8,7 @@
  html, body{background-color: #B29C74;
  margin-left:auto; font-family: 'Roboto', sans-serif;
  margin-right:auto; max-width: 8000pt; min-width: 192pt;
- padding-top: 6pt;
+ padding-top: 5pt;
  padding-bottom: 18pt;
  padding-left: 18pt;
  padding-right:18pt;
@@ -20,12 +20,8 @@ nav ul {
       border: 2px solid #111111;
       border-radius: 10px;
       font-weight:bold;
-      
-
-      padding-top: 0pt;
-      padding-bottom: 18pt;
-      padding-left: 0pt;
-      padding-right:0pt;
+      padding:16pt;
+      margin:0pt;
       }
 nav ul li {
           display:inline;
