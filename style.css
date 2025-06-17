@@ -20,7 +20,12 @@ nav ul {
       border: 2px solid #111111;
       border-radius: 10px;
       font-weight:bold;
-      padding:16px;
+      
+
+      padding-top: 0pt;
+      padding-bottom: 18pt;
+      padding-left: 0pt;
+      padding-right:0pt;
       }
 nav ul li {
           display:inline;
