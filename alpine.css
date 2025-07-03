@@ -1,20 +1,20 @@
 
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@450&display=swap');
 @font-face {
-  font-family: adler;
+  font-family: specialelite;
   src: url(SpecialElite.ttf);
 }
 
 html{
-  font-family: adler, monospace;
+  font-family: specialelite, monospace;
   background-color:#B9EAC0;
 
 }
 body{
-  font-family: adler, monospace;
+  font-family: specialelite, monospace;
   text-align: center;
 }
 head{
-  font-family: adler, monospace;
+  font-family: specialelite, monospace;
 
 }
