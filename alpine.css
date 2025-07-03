@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@450&display=swap');
+
+
+html{
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+}
+body{
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+}
+head{
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+}
