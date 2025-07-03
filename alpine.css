@@ -18,9 +18,11 @@ head{
   font-family: specialelite, monospace;
 
 }
-a:visited{color:#1b2b1d;}
+a:visited{color:#1b2b1d;
+         text-decoration: none;}
 a:link{color:#1b2b1d;}
-a:hover{color:teal;}
+a:hover{color:teal;
+       text-decoration: none;}
 p{text-color:#1b2b1d;}
 h2{text-color:#1b2b1d;}
 h1{text-color:#184F0F;}
