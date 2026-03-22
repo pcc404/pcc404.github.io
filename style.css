@@ -5,7 +5,9 @@
   src: url(nasalization-rg.otf);
 }
 
- html, body{background-color: #B29C74;
+ html, body{
+  
+ background-color: #B29C74;
  margin-left:auto; font-family: 'Roboto', sans-serif;
  margin-right:auto; max-width: 8000pt; min-width: 192pt;
  padding-top: 5pt;
