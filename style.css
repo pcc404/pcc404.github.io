@@ -22,7 +22,7 @@ nav ul {
       font-family: 'nasa-font';
       list-style-type:none;
       background-color:var(--prim-bg);
-      border: 2px solid var(--prim-accent);
+      border: 4px solid var(--prim-accent);
       border-radius: 10px;
       font-weight:bold;
       padding:16pt;
