@@ -44,6 +44,7 @@ nav ul li.selected{
 }
 body a {
  color:#cdabf7;
+ text-decoration:none;
 }
 p.fact {
  border:4px #00AFEB;
