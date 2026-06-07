@@ -7,9 +7,10 @@
 :root{
  --prim-bg:#cfb99f;
  --prim-accent:#ff8c00;
+ --prim-text:#111111;
  html, body{
   
- background-color: #B29C74;
+ background-color: var(--prim-bg);
  margin-left:auto; font-family: 'Roboto', sans-serif;
  margin-right:auto; max-width: 8000pt; min-width: 192pt;
  padding-top: 5pt;
