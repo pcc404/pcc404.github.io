@@ -42,7 +42,9 @@ nav ul li a {
 nav ul li.selected{
  color:#cfcfcf;
 }
-
+body a {
+ color:#cdabf7;
+}
 p.fact {
  border:4px #00AFEB;
  border-radius:10px;
