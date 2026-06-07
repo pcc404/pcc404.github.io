@@ -5,14 +5,14 @@
   src: url(nasalization-rg.otf);
 }
 :root{
- --prim-bg:#cfb99f;
+ --prim-bg:#75543b;
  --prim-accent:#ff8c00;
- --prim-text:#111111;
+ --prim-text:#e0e0e0;
  html, body{
-  
  background-color: var(--prim-bg);
  margin-left:auto; font-family: 'Roboto', sans-serif;
  margin-right:auto; max-width: 8000pt; min-width: 192pt;
+ text-color:var(--prim-text);
  padding-top: 5pt;
  padding-bottom: 18pt;
  padding-left: 18pt;
