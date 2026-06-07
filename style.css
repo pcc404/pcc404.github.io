@@ -38,7 +38,7 @@ nav ul li:last-child{
  border-right:none;}
 nav ul li a {
  text-decoration: none;
- color: car(--prim-text);}
+ color: var(--prim-text);}
 nav ul li.selected{
  color:#cfcfcf;
 }
