@@ -6,7 +6,7 @@
 }
 :root{
  --prim-bg:#272629;
- --prim-accent:#00aeff;
+ --prim-accent:#ff9d00;
  --prim-text:#e0e0e0;
  html, body{
  background-color: var(--prim-bg);
