@@ -9,6 +9,7 @@
  --prim-bg:#474542;
  --prim-accent:#ff9d00;
  --prim-text:#e0e0e0;
+ 
  html, body{
  background-color: var(--prim-bg);
  margin-left:auto; font-family: 'Nunito', sans-serif;
@@ -44,7 +45,8 @@ nav ul li.selected{
  color:#cfcfcf;
 }
 button{
- color:var(--prim-big);
+ background-color:var(--prim-big);
+ color:var(--prim-text);
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
