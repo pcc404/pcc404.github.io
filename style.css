@@ -46,11 +46,7 @@ nav ul li a {
 nav ul li.selected{
  color:#cfcfcf;
 }
-  button a{
- color:var(--prim-text);
- text-decoration:none;
- font-family: 'Nunito', sans-serif;
- font-weight: bold;
+
    
 button{
   font-family: 'Nunito', sans-serif;
@@ -78,7 +74,13 @@ p.fact {
  border:4px #00AFEB;
  border-radius:10px;
  padding:16px;
- background-color:#C5EBFB;
+
+ body a{
+ color:var(--prim-text);
+ text-decoration:none;
+ font-family: 'Nunito', sans-serif;
+ font-weight: bold;
+
 }
 
 
