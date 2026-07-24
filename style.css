@@ -54,7 +54,10 @@ button{
   text-decoration: none;
   border:none;
 }
-
+button a:visited{
+ color:var(--prim-bg)
+ text-decoration:none;
+}
  
 body a {
  color:#cdabf7;
