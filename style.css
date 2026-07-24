@@ -45,6 +45,7 @@ nav ul li.selected{
  color:#cfcfcf;
 }
 button{
+ font-family: 'Nunito', sans-serif;
  background-color:var(--prim-big);
  color:var(--prim-text);
   border-radius:15px;
