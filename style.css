@@ -68,7 +68,6 @@ button:hover{
  background-color:color-mix(var(--prim-accent), black 15%);
 }
 body a {
- color:#cdabf7;
  text-decoration:none;
  font-family: 'Nunito', sans-serif;
  font-weight: bold;
