@@ -77,13 +77,18 @@ p.fact {
 
  body a{
  color:var(--prim-text);
- text-decoration:none;
- font-family: 'Nunito', sans-serif;
- font-weight: bold;
 
+ font-family: 'Nunito', sans-serif;
+   text-decoration:none;
+ font-weight: bold;
 }
-center a{
+
+ body a:visited{
  color:var(--prim-text);
+
+ font-family: 'Nunito', sans-serif;
+   text-decoration:none;
+ font-weight: bold;
 }
 
 
