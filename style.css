@@ -43,6 +43,15 @@ nav ul li a {
 nav ul li.selected{
  color:#cfcfcf;
 }
+button{
+ color:var(--prim-big);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+ 
 body a {
  color:#cdabf7;
  text-decoration:none;
