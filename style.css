@@ -70,25 +70,4 @@ button:hover{
  background-color:color-mix(var(--prim-accent), black 15%);
 }
 
-p.fact {
- border:4px #00AFEB;
- border-radius:10px;
- padding:16px;
-
- body a{
- color:var(--prim-text);
-
- font-family: 'Nunito', sans-serif;
-   text-decoration:none;
- font-weight: bold;
-}
-
- body a:visited{
- color:var(--prim-text);
-
- font-family: 'Nunito', sans-serif;
-   text-decoration:none;
- font-weight: bold;
-}
-
 
