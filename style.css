@@ -47,12 +47,12 @@ nav ul li.selected{
 }
 button{
  font-family: 'Nunito', sans-serif;
- background-color:var(--prim-big);
- color:var(--prim-text);
+ background-color:var(--prim-accent);
+ color:var(--prim-bg);
   border-radius:15px;
   text-align: center;
   text-decoration: none;
-  border:3px solid var(--prim-accent);
+  border:none;
 }
 
  
