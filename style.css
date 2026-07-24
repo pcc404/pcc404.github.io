@@ -69,12 +69,7 @@ button a:visited{
  font-family: 'Nunito', sans-serif;
  font-weight: bold;
 }
- button a{
- color:var(--prim-bg);
- text-decoration:none;
- font-family: 'Nunito', sans-serif;
- font-weight: bold;
-}
+
 button:hover{
  background-color:color-mix(var(--prim-accent), black 15%);
 }
