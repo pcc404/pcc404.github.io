@@ -65,7 +65,7 @@ button a:visited{
  font-weight: bold;
 }
 button:hover{
- background-color:color-mix(var(--prim-accent), var(--prim-bg) 20%);
+ background-color:color-mix(var(--prim-accent), black 15%);
 }
 body a {
  color:#cdabf7;
