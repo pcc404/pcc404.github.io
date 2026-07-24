@@ -46,7 +46,12 @@ nav ul li a {
 nav ul li.selected{
  color:#cfcfcf;
 }
- 
+  button a{
+ color:var(--prim-text);
+ text-decoration:none;
+ font-family: 'Nunito', sans-serif;
+ font-weight: bold;
+   
 button{
   font-family: 'Nunito', sans-serif;
   background-color:var(--prim-accent);
