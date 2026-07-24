@@ -82,5 +82,8 @@ p.fact {
  font-weight: bold;
 
 }
+center a{
+ color:var(--prim-text);
+}
 
 
