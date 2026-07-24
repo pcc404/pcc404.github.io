@@ -47,7 +47,7 @@ nav ul li.selected{
 button{
  background-color:var(--prim-big);
  color:var(--prim-text);
-  padding: 15px 32px;
+  border-radius:15px;
   text-align: center;
   text-decoration: none;
 
